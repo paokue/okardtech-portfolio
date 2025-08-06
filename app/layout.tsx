@@ -15,7 +15,7 @@ const noto_sans_lao = Noto_Sans_Lao({
 
 export const metadata: Metadata = {
   title: {
-    default: "Okardtech - Empowering Digital Possibilities",
+    default: "Okardtech - Portfolio",
     template: "%s | Okardtech"
   },
   description:
