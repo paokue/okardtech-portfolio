@@ -1,1 +1,1 @@
-# okardtech-portfolio
+# okardtech-portfoliog
